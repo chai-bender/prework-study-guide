@@ -20,3 +20,12 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/af94eefd-64b6-48a4-aa4d-273f62f4ce00)
+
+
+## Deployed Site
+
+https://chai-bender.github.io/prework-study-guide/
